@@ -4,7 +4,7 @@ Business Analysis | Information Systems | Problem Solving
 
 About
 
-I am an Information Systems student developing practical Business Analysis skills through independent case studies and structured problem-solving exercises.
+I am an Information Systems graduate developing practical Business Analysis skills through independent case studies and structured problem-solving exercises.
 
 My focus is on understanding business problems, identifying stakeholder needs, distinguishing evidence from assumptions, and translating findings into clear business requirements and actionable recommendations.
 
